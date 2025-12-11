@@ -3,6 +3,7 @@
 
 # Brain Games
 Игра: Проверка на чётность (brain-even)
+
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=blackgold44441_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=blackgold44441_qa-auto-engineer-python-project-49)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=blackgold44441_qa-auto-engineer-python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=blackgold44441_qa-auto-engineer-python-project-49)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=blackgold44441_qa-auto-engineer-python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=blackgold44441_qa-auto-engineer-python-project-49)
