@@ -21,3 +21,7 @@
 Игра: "Калькулятор" (brain-calc)
 
 [![asciicast](https://asciinema.org/a/JgT2NB6CMInb21P9lAYa6E1Ly.svg)](https://asciinema.org/a/JgT2NB6CMInb21P9lAYa6E1Ly)
+
+Игра: "НОД" (brain-gcd)
+
+[![asciicast](https://asciinema.org/a/EQdCIqubyxvEChkgbwSTUj8Ln.svg)](https://asciinema.org/a/EQdCIqubyxvEChkgbwSTUj8Ln)
