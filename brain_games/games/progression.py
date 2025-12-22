@@ -9,7 +9,7 @@ def generate_progression() -> list:
     length = random.randint(5, 10)
     step = random.randint(1, 5)
     progression = []
-    for i in range(length):
+    for _ in range(length):
         progression.append(start)
         start = start + step
     return progression
