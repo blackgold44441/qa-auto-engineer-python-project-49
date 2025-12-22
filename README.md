@@ -25,3 +25,7 @@
 Игра: "НОД" (brain-gcd)
 
 [![asciicast](https://asciinema.org/a/EQdCIqubyxvEChkgbwSTUj8Ln.svg)](https://asciinema.org/a/EQdCIqubyxvEChkgbwSTUj8Ln)
+
+Игра: "Арифметическая прогрессия" (brain-progression)
+
+[![asciicast](https://asciinema.org/a/9bPWnFkEGyoK2IJL7cFue1KDM.svg)](https://asciinema.org/a/9bPWnFkEGyoK2IJL7cFue1KDM)
