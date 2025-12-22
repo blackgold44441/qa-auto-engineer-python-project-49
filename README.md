@@ -30,6 +30,6 @@
 
 [![asciicast](https://asciinema.org/a/9bPWnFkEGyoK2IJL7cFue1KDM.svg)](https://asciinema.org/a/9bPWnFkEGyoK2IJL7cFue1KDM)
 
-Игра: "Простое ли число?"
+Игра: "Простое ли число?" (brain-prime)
 
 [![asciicast](https://asciinema.org/a/q1ItEQu7ALsYoq520FAwAanP2.svg)](https://asciinema.org/a/q1ItEQu7ALsYoq520FAwAanP2)
