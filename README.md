@@ -28,6 +28,9 @@ cd qa-auto-engineer-python-project-49
 
 Build and install the package:
 ```bash
+make build
+```
+```bash
 make package-install 
 ```
 After installation, the game commands (brain-*) will be available globally.
