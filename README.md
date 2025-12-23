@@ -23,6 +23,8 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/blackgold44441/qa-auto-engineer-python-project-49.git
+```
+```bash
 cd qa-auto-engineer-python-project-49
 ```
 
