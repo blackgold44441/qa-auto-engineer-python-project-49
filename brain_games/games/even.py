@@ -1,6 +1,5 @@
 import random
 
-
 RULE_TEXT = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 

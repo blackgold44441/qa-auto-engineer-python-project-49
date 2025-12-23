@@ -1,6 +1,5 @@
 import random
 
-
 RULE_TEXT = 'What number is missing in the progression?'
 
 
@@ -18,10 +17,10 @@ def generate_progression() -> list:
 def get_round() -> tuple[str, str]:
     current_progression = generate_progression()
 
-    index = random.randint(0, len(current_progression)-1)
+    index = random.randint(0, len(current_progression) - 1)
     correct_answer = str(current_progression[index])
 
-    current_progression[index] = '..' # Заменили число на точки
+    current_progression[index] = '..'  # Заменили число на точки
 
     progression_strs = []
     for item in current_progression:

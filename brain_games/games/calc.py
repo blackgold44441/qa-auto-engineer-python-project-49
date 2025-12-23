@@ -1,6 +1,5 @@
 import random
 
-
 RULE_TEXT = 'What is the result of the expression?'
 OPERATIONS = ['+', '-', '*']
 

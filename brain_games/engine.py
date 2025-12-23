@@ -22,7 +22,8 @@ def run_game(rule_text: str, get_round):
         answer = string("Your answer: ")
 
         if answer != correct_answer:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
+            print(f"'{answer}' is wrong answer ;(. "
+                  f"Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {name}!")
             return
 
