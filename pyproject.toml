@@ -1,8 +1,11 @@
 [project]
 name = "hexlet-code"
 version = "0.1.7"
-description = "Console games collection for Brain Games project"
+description = "A console-based set of logic games built as part of the Hexlet Python course."
 readme = "README.md"
+authors = [
+{ name = "Sergey Akimov" },
+]
 requires-python = ">=3.10"
 dependencies = [
     "prompt>=0.4.1",
